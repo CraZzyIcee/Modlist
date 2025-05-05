@@ -157,6 +157,9 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
   * **Requires Fabric API, Fabric Language Kotlin & YetAnotherConfigLib**
 
 ## Dependency Mods (you need these too)
+* [Architectury API]([https://modrinth.com/mod/cloth-config](https://modrinth.com/mod/architectury-api)) - 1.21.4 ✔ 1.21.5 ✔
+  * **Dependency mod**
+  * Required for a lot of mods to be configured
 * [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.21.4 ✔ 1.21.5 ✔
   * **Dependency mod**
   * Required for a lot of mods to be configured
