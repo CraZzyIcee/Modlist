@@ -25,9 +25,18 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
+* [Alternate Current](https://modrinth.com/mod/alternate-current) - 1.21.4 ✔ 1.21.5 ✔
+  * **Performance mod**
+  * Reduces the lag redstone makes
 * [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.21.4 ✔ 1.21.5 ❌
   * **Quality-of-life mod**
   * Changes player list (tab list) to show ping numbers instead of ping bars
+* [Better Ping Display](https://modrinth.com/mod/ambientsounds) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds ambient sounds, like bird sounds
+* [Appleskin](https://modrinth.com/mod/appleskin) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds visualization of hunger saturation
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
