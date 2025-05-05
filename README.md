@@ -17,12 +17,12 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&t=26s).
 
 # Mods
-* [Entity Model Features](https://modrinth.com/mod/entitytexturefeatures) - 1.21.4 ✔ 1.21.5 ✔
-  * **Quality-of-life mod**
-  * Adds custom entity textures
-* [Entity Model Features](https://modrinth.com/mod/entity-model-features) - ✔ 1.21.4 ✔ 1.21.5 ✔
+* [Entity Model Features](https://modrinth.com/mod/entity-model-features) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Adds custom entity models
+* [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds custom entity textures
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
