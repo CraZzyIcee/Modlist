@@ -28,23 +28,50 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 * [Alternate Current](https://modrinth.com/mod/alternate-current) - 1.21.4 ✔ 1.21.5 ✔
   * **Performance mod**
   * Reduces the lag redstone makes
-* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.21.4 ✔ 1.21.5 ❌
-  * **Quality-of-life mod**
-  * Changes player list (tab list) to show ping numbers instead of ping bars
-* [Better Ping Display](https://modrinth.com/mod/ambientsounds) - 1.21.4 ✔ 1.21.5 ✔
+* [Ambient Sounds](https://modrinth.com/mod/ambientsounds) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Adds ambient sounds, like bird sounds
 * [Appleskin](https://modrinth.com/mod/appleskin) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Adds visualization of hunger saturation
+* [Bad Optimizations](https://modrinth.com/mod/badoptimizations) - 1.21.4 ✔ 1.21.5 ✔
+  * **Performance mod**
+  * Optimizes things lightmaps and skyboxes
+* [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) - 1.21.4 ✔ 1.21.5 ✔
+  * **Performance mod**
+  * Optimizes biome blend so there is no FPS loss comparing to vanilla
+* [Better Clouds](https://modrinth.com/mod/better-clouds) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds extra clouds
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
   * **Requires Fabric API & TCDCommons API**
+* [Better Tab](https://modrinth.com/mod/bettertab) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Improves the Tab screen
+* [Better Third Person](https://modrinth.com/mod/better-third-person) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Improves the third person camera
+* [Better Grassify](https://modrinth.com/mod/bettergrassify) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds grass to some dirt sides, same for snow
+* [Blur+](https://modrinth.com/mod/blur-plus) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Allows for render distances greater than the server default
+* [Bobby](https://modrinth.com/mod/bobby) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds render distance greater than the servers default
 * [Capes](https://modrinth.com/mod/capes) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Improves the Minecraft chat with features like longer chat history
   * **Requires Fabric API & Fabric Language Kotlin**
+* [Chat Animation](https://modrinth.com/mod/chatanimation) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds an animation to chat messages
+* [Chat Heads](https://modrinth.com/mod/chat-heads) - 1.21.4 ✔ 1.21.5 ✔
+  * **Quality-of-life mod**
+  * Adds heads in the chat
 * [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Allows you to view your cape from mods like OptiFine
@@ -157,7 +184,10 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
   * **Requires Fabric API, Fabric Language Kotlin & YetAnotherConfigLib**
 
 ## Dependency Mods (you need these too)
-* [Architectury API]([https://modrinth.com/mod/cloth-config](https://modrinth.com/mod/architectury-api)) - 1.21.4 ✔ 1.21.5 ✔
+* [Architectury API]([https://modrinth.com/mod/cloth-config](https://modrinth.com/mod/architectury-api) - 1.21.4 ✔ 1.21.5 ✔
+  * **Dependency mod**
+  * Required for a lot of mods to be configured
+* [Bad Packets](https://modrinth.com/mod/badpackets) - 1.21.4 ✔ 1.21.5 ✔
   * **Dependency mod**
   * Required for a lot of mods to be configured
 * [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.21.4 ✔ 1.21.5 ✔
