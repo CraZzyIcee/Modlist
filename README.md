@@ -14,7 +14,6 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 * If you get a crash any time you load a world or join a server, remove the Chat Patches mod. If that fixes it, add the mod back and then delete the file "chatlog.json" file in *.minecraft\logs*
 
 ## You must install [Fabric](https://fabricmc.net) to run these mods
-Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&t=26s).
 
 # Mods
 * [Entity Model Features](https://modrinth.com/mod/entity-model-features) - 1.21.4 ✔ 1.21.5 ✔
